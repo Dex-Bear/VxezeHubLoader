@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://vxezehub.click/files/api/loaders/bf0a0c9b/SailoriPieceKaitun.lua"))()
+loadstring(game:HttpGet("https://vxezehub.click/files/api/loaders/b2e74e30/SailorPieceKaitun.lua.lua"))()
