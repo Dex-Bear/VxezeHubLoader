@@ -5,13 +5,12 @@ local UniverseID = game:GetService("HttpService"):JSONDecode(game:HttpGet("https
 if game.PlaceId == 7449423635 or game.PlaceId == 2753915549 or game.PlaceId == 4442272183 or game.PlaceId == 122478697296975 or game.PlaceId == 85211729168715 or game.PlaceId == 100117331123089 or game.PlaceId == 79091703265657 or UniverseID == 994732206 then
     repeat task.wait() until game:IsLoaded()
     repeat task.wait() until game.Players.LocalPlayer
-    _G.Team = "Marines"
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubPremium/refs/heads/main/BloxFruit.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/BloxFruit.lua"))()
 -- Attack on Titan Revolution
 elseif game.PlaceId == 13379208636 or game.PlaceId == 14916516914 or game.PlaceId == 13379349730 or game.PlaceId == 14012874501 or game.PlaceId == 14932214603 or game.PlaceId == 13904207646 or game.PlaceId == 15220308770 or game.PlaceId == 17688739434 or UniverseID == 4658598196 then
     repeat task.wait() until game:IsLoaded()
     repeat task.wait() until game.Players.LocalPlayer
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubPremium/refs/heads/main/AttackonTitanRevolution.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Dex-Bear/VxezeHubLoader/refs/heads/main/AttackonTitanRevolution.lua"))()
 end
 
 -- nguoi tinh 1 dem cua em
